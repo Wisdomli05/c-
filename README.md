@@ -1,7 +1,7 @@
 # c-<!DOCTYPE html>
 <html>
   <body>
-    <table border="1">
+    <table border="6">
       <tr>
         <td>100</td>
       </tr>
